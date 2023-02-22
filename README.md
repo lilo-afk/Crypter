@@ -1,4 +1,10 @@
 
+# Crypter 
+
+<img src=".github/GUI_cover.png">
+
+<br>
+
 ## Project Title
 
 A Python project for a text encryptor and decryptor with a graphical interface may involve creating a GUI using the Tkinter library. The program prompts the user to input an access key "1234" and the text message they wish to encrypt.

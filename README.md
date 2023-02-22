@@ -16,13 +16,13 @@ A Python project for a text encryptor and decryptor with a graphical interface m
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/lilo-afk/Crypter
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Crypter
   ```
 
 Packages Installation
